@@ -1,5 +1,14 @@
 
-See original repo for docs. This just changes the custom prompts to work with github issues, instead of using a local state file for observability
+See original repo for docs. This just changes the custom prompts to work with github issues, instead of using a local state file for observability.
+
+Watch your roocode run on your repo in github issues.
+
+Set up your org / repo name is `issue-manager.sh`
+
+Run `gh auth` in your command line to authenticate first.
+
+You may need to create the labels required in your repo first
+
 
 # 🚀 rooroo (如如): Minimalist AI Orchestration with Specialist Agents 🚀
 
