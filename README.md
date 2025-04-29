@@ -1,3 +1,6 @@
+
+See original repo for docs. This just changes the custom prompts to work with github issues, instead of using a local state file for observability
+
 # 🚀 rooroo (如如): Minimalist AI Orchestration with Specialist Agents 🚀
 
 **Version: v0.1.1** [Changelog](changelog.md)
